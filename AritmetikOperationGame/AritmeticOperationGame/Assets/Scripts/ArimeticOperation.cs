@@ -40,7 +40,6 @@ public class ArimeticOperation : MonoBehaviour
                     firstNumber = Random.Range( 1, 11 );
                     secondNumber = Random.Range( 1, 10 );
                 }
-
                 output = firstNumber / secondNumber;
                 break;
             default:
