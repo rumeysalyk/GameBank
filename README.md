@@ -3,7 +3,7 @@ These games are taken from youtube videos and udemy courses. Just for best pract
 
 ## Games
 
-[1. AritmeticOperationGame] (https://github.com/rumeysalyk/GameBank/tree/main/AritmetikOperationGame/AritmeticOperationGame) 
+<a href="https://github.com/rumeysalyk/GameBank/tree/main/AritmetikOperationGame/AritmeticOperationGame " target="_blank">1. AritmeticOperationGame</a>
 
 <h5>What I learned ?</h5>
 
@@ -16,10 +16,9 @@ These games are taken from youtube videos and udemy courses. Just for best pract
  <li>Fourth item</li>
  <li>OnEndEdit Function</li>
 </ul>
+<video autoplay playsinline src="C:\Users\rumeysa.HANSERVER\Desktop\AritmeticOperationGame.mp4"></video>
 
 
-
- 
 
 
 
