@@ -16,10 +16,9 @@ These games are taken from youtube videos and udemy courses. Just for best pract
  <li>OnEndEdit Function</li>
 </ul>
 
+Game Demo:
 
-<video src="https://github.com/rumeysalyk/GameBank/blob/main/AritmetikOperationGame/AritmeticOperationGame/GameDemo.mp4"> Demo </video>
-[Game Demo](https://github.com/rumeysalyk/GameBank/blob/main/AritmetikOperationGame/AritmeticOperationGame/GameDemo.mp4)
-
+![ezgif-3-2b5c66e8ee](https://user-images.githubusercontent.com/37456977/197381040-7bf314f1-de23-4421-8793-41a3a8573e8d.gif)
 
 
 
