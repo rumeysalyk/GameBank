@@ -13,12 +13,12 @@ These games are taken from youtube videos and udemy courses. Just for best pract
     <ul>
       <li>Cannot change the value of the child object without access its parent object</li>
     </ul>
- <li>Fourth item</li>
  <li>OnEndEdit Function</li>
 </ul>
+
+
 <video src="https://github.com/rumeysalyk/GameBank/blob/main/AritmetikOperationGame/AritmeticOperationGame/GameDemo.mp4"> Demo </video>
-
-
+[Game Demo](https://github.com/rumeysalyk/GameBank/blob/main/AritmetikOperationGame/AritmeticOperationGame/GameDemo.mp4)
 
 
 
