@@ -16,7 +16,7 @@ These games are taken from youtube videos and udemy courses. Just for best pract
  <li>Fourth item</li>
  <li>OnEndEdit Function</li>
 </ul>
-<video autoplay src="https://github.com/rumeysalyk/GameBank/tree/main/AritmetikOperationGame/AritmeticOperationGame/GameDemo.mp4"></video>
+<video autoplay src="https://github.com/rumeysalyk/GameBank/tree/main/AritmetikOperationGame/AritmeticOperationGame/GameDemo.mp4"> Demo </video>
 
 
 
