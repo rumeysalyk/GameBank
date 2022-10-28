@@ -19,9 +19,8 @@ These games are taken from youtube videos and udemy courses. Just for best pract
 Game Demo:
 
 ![ezgif-3-2b5c66e8ee](https://user-images.githubusercontent.com/37456977/197381040-7bf314f1-de23-4421-8793-41a3a8573e8d.gif)
-
-
-
+<br>
+<hr>
 <a href="https://github.com/rumeysalyk/GameBank/tree/main/MeanderGame/MeanderGame" target="_blank">2. MeanderGame</a>
 
 <h5>What I learned ?</h5>
@@ -40,4 +39,6 @@ Game Demo:
 </ul>
 
 Game Demo:
+
+![MeanderGame](https://user-images.githubusercontent.com/37456977/198748613-3360d225-8653-4f2d-a21b-e50d2a4e292a.gif)
 
