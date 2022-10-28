@@ -22,8 +22,22 @@ Game Demo:
 
 
 
+<a href="https://github.com/rumeysalyk/GameBank/tree/main/MeanderGame/MeanderGame" target="_blank">2. MeanderGame</a>
 
+<h5>What I learned ?</h5>
 
+<ul>
+ <li>Difference between Update and FixedUpdate</li>
+ <li>Time.deltaTime</li>
+ <li>Colliders</li>
+ <li>Rigidbody[Mass,Drag,Angular Drag, Gravity, IsKinematic]</li>
+ <li>Texture</li>
+ <li>Mesh Renderer</li>
+ <li>Tiling/Offset</li>
+ <li>SetActive Function to open/close a canvas when I want</li>
+ <li>Perspective and orthographic projection </li>
+ <li>Getting input from keyboard</li>
+</ul>
 
-
+Game Demo:
 
