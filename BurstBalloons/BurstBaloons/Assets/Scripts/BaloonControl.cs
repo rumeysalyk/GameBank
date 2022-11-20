@@ -1,23 +1,20 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class BaloonControl : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
+    public GameObject m_bursting;
+    private GameControl m_gameControl;
 
-    // Update is called once per frame
-    void Update()
+    public void Start()
     {
-        
+        m_gameControl = GameObject.Find( "BalloonCreation" ).GetComponent<GameControl>();
     }
 
     public void OnMouseDown()
     {
+        var bursting = Instantiate( m_bursting, transform.position, transform.rotation );
         Destroy( this.gameObject );//
+        Destroy( bursting, 0.6f );
+        m_gameControl.AddBalloon();
     }
 }
