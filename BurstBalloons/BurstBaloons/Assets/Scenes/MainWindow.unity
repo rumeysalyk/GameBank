@@ -560,10 +560,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9a3b70e231627724bab6f33c5bb454c4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_timerCount: {fileID: 1393346504}
-  m_balloonCount: {fileID: 428583398}
+  TimerCount: {fileID: 1393346504}
+  BalloonCount: {fileID: 428583398}
   m_burstingAllBalloons: {fileID: 4802293051656448032, guid: 4e3e7d8f1e61fe14eac30e58e699cf77, type: 3}
-  m_timer: 5
+  Timer: 60
 --- !u!1 &983265469
 GameObject:
   m_ObjectHideFlags: 0
