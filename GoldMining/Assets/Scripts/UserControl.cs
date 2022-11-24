@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class UserControl : MonoBehaviour
 {
+    private float velocity = 10f;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -13,7 +15,12 @@ public class UserControl : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        var left = Input.GetKeyDown( KeyCode.LeftArrow );
-        var right = Input.GetKeyDown( KeyCode.RightArrow );
+        var x = Input.GetAxis( "Horizontal" );
+        var y = Input.GetAxis( "Vertical" );
+
+        x = Time.deltaTime * velocity;
+        y = Time.deltaTime * velocity;
+
+        transform.Translate( x, 0f, y );
     }
 }
