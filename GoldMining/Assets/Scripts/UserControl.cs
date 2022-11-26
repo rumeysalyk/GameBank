@@ -15,11 +15,11 @@ public class UserControl : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        var x = Input.GetAxis( "Horizontal" );
-        var y = Input.GetAxis( "Vertical" );
+        var x = - Input.GetAxis( "Horizontal" );
+        var y = - Input.GetAxis( "Vertical" );
 
-        x = Time.deltaTime * velocity;
-        y = Time.deltaTime * velocity;
+        x *= Time.deltaTime * velocity;
+        y *= Time.deltaTime * velocity;
 
         transform.Translate( x, 0f, y );
     }
