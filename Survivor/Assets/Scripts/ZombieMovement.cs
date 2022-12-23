@@ -9,7 +9,7 @@ public class ZombieMovement : MonoBehaviour
         player = GameObject.Find( "FPSController" );
     }
 
-    // Update is called once per frame
+    // Update is called once per frame  
     void Update()
     {
         GetComponent<NavMeshAgent>().destination = player.transform.position;
